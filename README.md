@@ -36,7 +36,7 @@ There is a unit test that has been created to test the car type service:
 Run the unit tests by right-clicking on the java class and clicking on ```Run carResourceTest()```
 
 Expected Results
-![TestsPassed](https://github.com/abuelgasimsaadeldin/finology-assignment/assets/68045710/e93e51b1-c041-47c2-8555-0b21aa2cb041)
+![TestsPassed](https://github.com/abuelgasimsaadeldin/finology-assignment/assets/68045710/ee794033-ac62-4846-bc39-0c271fc084bb)
 
 ## Steps to Dockerize and Deploy the program using Dockerfile
 
